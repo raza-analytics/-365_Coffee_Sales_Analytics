@@ -12,7 +12,7 @@ The cafe sector generates massive amounts of raw transactional data that often r
 ###  🛠️ Methodology & Workflow:  
 **Data Context:** Analyzed a publicly sourced Open-Source Cafe Sector dataset containing 20,000+ raw transaction records, including sales timestamps, product categories, and store locations.  
 **Data Cleaning (ETL):** Performed end-to-end data preparation in Microsoft Excel, including handling missing values, standardizing formats, and structuring data for pivot-ready analysis.  
-**Analytical Approach:** Executed **Time-Series Analysis** to identify peak operational hours, applied **CAGR-based formulas** to measure monthly growth rates, and performed **Category Segmentation** to isolate top-performing products and optimize inventory insights. 
+**Analytical Approach:** Leveraged **Time-Series Forecasting** to pinpoint peak operational windows (**7:00 AM – 10:00 AM**), utilized **CAGR modeling** to quantify a **15.31%** sustainable monthly growth trend, and executed **Multidimensional Segmentation** to isolate high-velocity product categories like **Coffee and Bakery**, which drive **85%** of total volume.
 **Visualization & Design:** Developed a stakeholder-centric interactive dashboard focusing on trend scannability and high-impact KPIs.
 ### 💡 Key Insights & Business Impact:  
 **Sustainable Growth:** The business exhibits a positive upward trend with a 15.31% CAGR-based monthly growth rate.  
