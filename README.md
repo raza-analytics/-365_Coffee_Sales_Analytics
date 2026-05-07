@@ -1,4 +1,4 @@
-# 365_Coffee_Sales_Analytics
+# ☕ 365-Coffee-Sales-Analytics
 
 This interactive dashboard transforms **raw transactional data** into actionable business insights to drive **operational efficiency** and growth.
 ### 🖼️ Visual Preview: 
